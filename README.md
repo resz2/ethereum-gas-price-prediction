@@ -29,7 +29,7 @@
 - Run the 02_GasPricePredictor notebook and input the model you want to load and test.
 
 ## Project folder
-- Find the files related to this project at [Google Drive]https://drive.google.com/drive/folders/1pwM1h0ofLfHbR5A73Y-XC_OS5N8SJLpS?usp=sharing
+- Find the files related to this project at [Google Drive](https://drive.google.com/drive/folders/1pwM1h0ofLfHbR5A73Y-XC_OS5N8SJLpS?usp=sharing)
 - IIITD folks are automatically granted access, but others are free to request too.
 
 ## Reach out to us
