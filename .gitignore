@@ -1,4 +1,4 @@
-eth_blocks.csv
-txns.csv
-processed.csv
-unscaled.csv
+Data/eth_blocks.csv
+Data/txns.csv
+Data/processed.csv
+Data/unscaled.csv

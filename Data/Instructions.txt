@@ -1,0 +1,8 @@
+Download the 4 csv files from the drive folder and put them in this folder to run the models.
+* eth_blocks.csv
+* txns.csv
+* processed.csv
+* unscaled.csv
+
+
+If the preprocessing notebook is being run then only eth_blocks.csv and txns.csv are needed, the other two files will be created.
