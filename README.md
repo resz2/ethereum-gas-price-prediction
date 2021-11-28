@@ -29,5 +29,11 @@
 - Run the 02_GasPricePredictor notebook and input the model you want to load and test.
 
 ## Project folder
-- Find the files related to this project at https://drive.google.com/drive/folders/1pwM1h0ofLfHbR5A73Y-XC_OS5N8SJLpS?usp=sharing
+- Find the files related to this project at [Google Drive]https://drive.google.com/drive/folders/1pwM1h0ofLfHbR5A73Y-XC_OS5N8SJLpS?usp=sharing
 - IIITD folks are automatically granted access, but others are free to request too.
+
+## Reach out to us
+- Aryan: aryan19459@iiitd.ac.in
+- Pragya: pragya17305@iiitd.ac.in
+- Rupanshoo: rupanshoo19096@iiitd.ac.in
+- Saatvik: saatvik19097@iiitd.ac.in
